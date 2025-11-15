@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Linea principal - main
+=======
+Cambio desde feature A
+>>>>>>> feature-a
